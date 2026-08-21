@@ -2,6 +2,8 @@
 
 *A public-safe learning note on agentic workflows and practical ML/AI systems*
 
+*Published August 21, 2026*
+
 One idea changed how I think about AI assistants this week: repeated prompting is often repeated onboarding. If every session begins with restoring context, restating conventions, and correcting the same mistakes, the system is not really learning from the workflow.
 
 The better question is not only, “How do I write a stronger prompt?” It is also, “How do I turn useful context, corrections, and procedures into durable parts of the system?”
