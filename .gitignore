@@ -1,0 +1,4 @@
+# Contains verbatim source notes that may include work-sensitive details.
+.private-review/
+
+.DS_Store

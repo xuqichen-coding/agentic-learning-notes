@@ -1,5 +1,10 @@
 # Agentic Learning Notes
 
+## Published notes
+
+- [August 2026 — Notes on Reliable Agentic Engineering](#august-2026--notes-on-reliable-agentic-engineering)
+- [August 20, 2026 — Training an AI System to Improve Across Sessions](notes/2026-08-20-training-an-ai-system-to-improve-across-sessions.md)
+
 ## August 2026 — Notes on Reliable Agentic Engineering
 
 > These are my personal reflections on designing dependable AI-assisted workflows. All examples have been generalized and are unrelated to any particular employer, product, or private system. The opinions are my own.
